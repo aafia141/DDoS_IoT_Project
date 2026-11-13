@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Raw and processed datasets
+processed/
+Processed_Network_dataset/
+*.parquet
+
+# Large trained model files
+*.joblib
+*.pkl
+*.h5
+*.keras
+
+# Large benchmark datasets
+UNSW_NB15_training-set.csv
+UNSW_NB15_testing-set.csv
+
+# System files
+.DS_Store
+Thumbs.db

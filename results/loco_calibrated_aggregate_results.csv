@@ -1,0 +1,3 @@
+Model,Total_FP,Total_FN,Mean_Recall,Mean_FPR
+Extra Trees,25,0,1.0,0.008333333333333333
+Soft Voting,27,0,1.0,0.009000000000000001

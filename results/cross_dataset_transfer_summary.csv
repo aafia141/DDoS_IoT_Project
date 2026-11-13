@@ -1,0 +1,4 @@
+Experiment,Threshold,Accuracy,Precision,Recall,F1,FPR,FP,FN,Status
+CIC to ToN-IoT,0.5,0.667394,0.851259,0.405671,0.549483,0.070883,65,545,Reconstructed same-model comparison
+CIC to ToN-IoT,0.065,0.726827,0.703922,0.782988,0.741353,0.329335,302,199,Reconstructed CIC-calibrated threshold
+Historical CIC to ToN-IoT,0.033032,0.723555,0.697876,0.788441,0.740399,0.34133,313,194,Historical; source dataset path unavailable

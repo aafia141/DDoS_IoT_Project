@@ -1,0 +1,2 @@
+Dataset,Evaluation,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,PR-AUC,False Positive Rate,TN,FP,FN,TP,Evaluation time (seconds)
+UNSW-NB15,Official test set,Random Forest,0.9074,0.877,0.9674,0.92,0.9842,0.9882,0.1662,30850,6150,1478,43854,0.92
